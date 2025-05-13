@@ -33,8 +33,6 @@ Tailwind CSS
 
 React Router DOM
 
-SweetAlert2 (opcional)
-
 Estructura de Carpetas
 
 src/
@@ -63,12 +61,6 @@ Personalización
 
 Puedes modificar los estilos en tailwind.config.js o en los archivos JSX.
 
-Para cambiar el favicon, reemplaza el archivo en public/favicon.png y edita public/index.html.
-
 Autor
 
 Robinson Higuita
-
-Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes usarlo libremente.
